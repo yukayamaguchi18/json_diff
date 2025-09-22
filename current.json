@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Lipstick Red",
+    "price": 1200,
+    "image_url": "https://example.com/images/lip_red.png"
+  },
+  {
+    "id": 2,
+    "name": "Moisturizer",
+    "price": 900,
+    "image_url": "https://example.com/images/moisturizer.png"
+  }
+]
